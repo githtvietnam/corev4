@@ -1,6 +1,6 @@
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
-## SETUP CODE
+## SETUP Môi trường
 
 - use Git Bash: git clone https://github.com/githtvietnam/corev4.git
 - Set up PHP 8.1 và MySQL 5.6
