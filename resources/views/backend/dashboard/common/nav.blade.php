@@ -2,7 +2,7 @@
    <div class="navbar-wrapper">
 
         <div class="navbar-logo">
-            <a class="mobile-menu" id="mobile-collapse" href="#!">
+            <a class="mobile-menu" id="mobile-collapse" href="#" onclick="return false">
                 <i class="feather icon-menu"></i>
             </a>
             <a href="index-1.htm">

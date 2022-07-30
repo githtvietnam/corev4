@@ -8,7 +8,7 @@
             <div class="page-body">
                <div class="card">
                   <div class="card-header">
-                     <h5>Quản lý nhóm thành viên</h5>
+                     <h5>Quản lý nhóm bài viết</h5>
                   </div>
                   <div class="card-block table-border-style">
                      @include('backend/post/catalogue/include/filter')
@@ -19,6 +19,7 @@
                </div>
             </div>
          </div>
+         <div id="styleSelector"></div>
       </div>
    </div>
 </div>

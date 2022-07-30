@@ -29,7 +29,7 @@
             </div>
             <div class="uk-button">
                <a href="{{ route('post.catalogue.create') }}" class="btn btn-danger btn-sm">
-                  <i class="fa fa-plus"></i>Thêm Bài Viết mới </a>
+                  <i class="fa fa-plus"></i>Thêm Nhóm Bài Viết mới </a>
             </div>
          </div>
       </div>
