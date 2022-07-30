@@ -5,6 +5,11 @@
 - use Git Bash: git clone https://github.com/githtvietnam/corev4.git
 - Set up PHP 8.1 và MySQL 5.6
 
+
+## Cài đặt
+
+1. Install Composer: composer install
+
 - [Simple, fast routing engine](https://laravel.com/docs/routing).
 - [Powerful dependency injection container](https://laravel.com/docs/container).
 - Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
