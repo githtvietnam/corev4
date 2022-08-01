@@ -63,6 +63,7 @@
                 <div class="pcoded-wrapper">
                     @include('backend/dashboard/common/aside')
                     @include($template)
+                    <div id="styleSelector"></div>
                 </div>
             </div>
         </div>
