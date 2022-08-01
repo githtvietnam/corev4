@@ -3,7 +3,7 @@
 ## Setup Môi trường
 
 - use Git Bash: git clone https://github.com/githtvietnam/corev4.git
-- Set up PHP 8.1 và MySQL 8.0
+- Set up PHP 8.1 và MySQL >= 5.7
 
 
 ## Cài đặt
