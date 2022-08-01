@@ -8,10 +8,11 @@
 
 ## Cài đặt
 
-1. Install Composer: composer install
-2. Tạo file Autoload của Composer: composer dump-autoload
-3. Tạo file .env từ file .env.example: cp .env.example .env
-4. Chỉnh sửa file .env, sửa thông tin DB và tên miền = của mình
-5. Tạo bảng trong CSDL: php artisan migrate
-6. Khởi tạo DB demo: php artisan db:seed
-7. Tạo key bảo mật: php artisan key:generate
+1. Đối với Open Server thì đổi tên folder chứa thành corev2.com
+2. Install Composer: composer install
+3. Tạo file Autoload của Composer: composer dump-autoload
+4. Tạo file .env từ file .env.example: cp .env.example .env
+5. Chỉnh sửa file .env, sửa thông tin DB và tên miền = của mình
+6. Tạo bảng trong CSDL: php artisan migrate
+7. Khởi tạo DB demo: php artisan db:seed
+8. Tạo key bảo mật: php artisan key:generate
